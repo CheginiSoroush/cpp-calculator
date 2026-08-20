@@ -1,7 +1,7 @@
 
 
 # 🧮 C++ Simple CLI Calculator
-
+https://imsoroush.ir/computer/Other_computer/cpp-calculatorhttps://imsoroush.ir/computer/Other_computer/cpp-calculator
 یک ماشین حساب ساده اما هوشمند که در ترمینال (CLI) اجرا می‌شود. این پروژه با زبان C++ نوشته شده و برای تمرین مدیریت خطا (Error Handling) و ساختارهای کنترلی (Loops & Switch) طراحی شده است.
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
